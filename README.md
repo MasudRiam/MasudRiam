@@ -9,8 +9,8 @@
 ---
 
 ### 🟢 Currently building
-
-**FURNCO** — a furniture e-commerce platform for the Saudi market.
+ 
+A furniture e-commerce platform for the Saudi market.
 Full-stack: NestJS REST API · React Vite admin panel · Next.js 15 storefront · Arabic i18n + RTL support.
 
 ---
