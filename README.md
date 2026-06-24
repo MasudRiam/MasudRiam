@@ -2,7 +2,7 @@
 <div align="center">
 
 # Riam
-`// full-stack developer · Saudi e-commerce · NestJS · Next.js · PostgreSQL`
+`// full-stack developer · NestJS · Next.js · PostgreSQL`
 
 </div>
 
