@@ -58,8 +58,8 @@ Vercel      +  Render      +  Hostinger DNS           ← deployment pipeline
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasudRiam&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasudRiam&layout=compact&hide_border=true&theme=default&langs_count=6)
+![GitHub Stats](https://github-readme-stats-phi-two-55.vercel.app/api?username=MasudRiam&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=true&rank_icon=github)
+![Top Languages](https://github-readme-stats-phi-two-55.vercel.app/api/top-langs/?username=MasudRiam&layout=compact&hide_border=true&theme=default&langs_count=6)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=default)
 
