@@ -1,79 +1,24 @@
-<!-- Header -->
-<div align="center">
+# Hi there 👋
 
-# Riam
-`// full-stack developer · NestJS · Next.js · PostgreSQL`
+## Introduction
 
-</div>
+Hi there! I'm Riam. I'm a full-stack web developer proficient in [NestJS](https://nestjs.com/), [Next.js](https://nextjs.org/), and [PostgreSQL](https://www.postgresql.org/).
 
----
+I'm currently building a multi-vendor e-commerce platform — with a Laravel API, a Next.js storefront, and a React admin panel. Feel free to reach out if you want to talk full-stack architecture or need a hand shipping a product from schema to pixel.
 
-### 🟢 Currently building
- 
-A furniture e-commerce platform for the Saudi market.
-Full-stack: NestJS REST API · React Vite admin panel · Next.js 15 storefront · Arabic i18n + RTL support.
+## Ideas?
 
----
+- 🪑 I'm currently working on Sellsfie — REST API, Next.js storefront, React + Vite admin panel
+- 🌍 Built i18n with RTL support using [next-intl](https://next-intl.dev/)
+- 💬 Ask me about NestJS APIs, TypeORM, React Query patterns, or Next.js App Router
+- 🤝 Looking to collaborate on full-stack projects and open-source tooling
+- ⚙️ Zero-cost deployment pipeline: Neon → Render → Vercel
+- 📫 Reach me at [masudp.riam@gmail.com](mailto:masudp.riam@gmail.com)
 
-### About
-
-I build full-stack web applications end-to-end — from database schema to pixel-level UI.
-I care about clean architecture, sensible APIs, and fast, accessible frontends.
-Comfortable across the whole deployment pipeline: schema migrations, cloud hosting, DNS, and CDN.
-
----
-
-### Tech stack
-
-| Layer | Technologies |
-|---|---|
-| **Backend** | NestJS · TypeORM · PostgreSQL · Neon (serverless) |
-| **Frontend** | Next.js 15 (App Router) · React + Vite · next-intl · Tailwind CSS |
-| **State & data** | React Query · shadcn/ui · Embla Carousel |
-| **Infra & media** | Vercel · Render · Cloudinary · Hostinger DNS |
-
----
-
-### Architecture — FURNCO
-
-```
-Next.js 15  →  NestJS API  →  PostgreSQL / Neon     ← storefront
-React Vite  →  NestJS API  →  Cloudinary             ← admin panel + media
-Vercel      +  Render      +  Hostinger DNS           ← deployment pipeline
-```
-
----
-
-### What I focus on
-
-- **REST API design** with NestJS, TypeORM, and structured JSONB data
-- **Next.js App Router** — server components, loading skeletons, nested layouts
-- **i18n & RTL** — cookie-based locale switching for Arabic/English with `next-intl`
-- **Full deployment pipeline** — zero-cost stack: Neon → Render → Vercel with custom domains
-- **Admin tooling** — multi-step forms, React Query patterns, image management with Cloudinary
-
----
-
-### GitHub stats
+## Language
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-phi-two-55.vercel.app/api?username=MasudRiam&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=true&rank_icon=github)
 ![Top Languages](https://github-readme-stats-phi-two-55.vercel.app/api/top-langs/?username=MasudRiam&layout=compact&hide_border=true&theme=default&langs_count=6)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=default)
-
-</div>
-
----
-
-### Connect
-
-- 🌐 Portfolio: `your-portfolio-url`
-- 📬 Email: `masudp.riam@gmail.com`
-
----
-
-<div align="center">
-<sub>Built with NestJS · Next.js · PostgreSQL · deployed on Vercel & Render</sub>
 </div>
