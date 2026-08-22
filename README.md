@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## Introduction
-Hi there! I'm Riam. I'm a full-stack web developer proficient in [JavaScript], [React](https://react.dev/) [NestJS](https://nestjs.com/), [Next.js](https://nextjs.org/), and [PostgreSQL](https://www.postgresql.org/).
+Hi there! I'm Riam. I'm a full-stack web developer proficient in [TypeScript](https://www.typescriptlang.org/), [React](https://react.dev/) [NestJS](https://nestjs.com/), [Next.js](https://nextjs.org/), and [PostgreSQL](https://www.postgresql.org/).
 
 I'm currently building a multi-vendor e-commerce platform — with a Laravel API, a Next.js storefront, and a React admin panel. Feel free to reach out if you want to talk full-stack architecture or need a hand shipping a product from schema to pixel.
 
