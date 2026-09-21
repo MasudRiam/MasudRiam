@@ -7,7 +7,7 @@ I'm currently building a multi-vendor e-commerce platform — with a Laravel API
 
 ## Ideas?
 
-- 🪑 I'm currently working on Sellsfie — REST API, Next.js storefront, React + Vite admin panel
+- 🪑 I'm currently working — Redis, CI/CD pipe line & Server Administrator
 - 🌍 Built i18n with RTL support using [next-intl](https://next-intl.dev/)
 - 💬 Ask me about NestJS APIs, TypeORM, React Query patterns, or Next.js App Router
 - 🤝 Looking to collaborate on full-stack projects and open-source tooling
